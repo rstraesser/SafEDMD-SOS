@@ -3,7 +3,7 @@
 [![Webpage][webpage-shield-RS]][webpage-url-RS]
 
 # Koopman-based control of nonlinear systems with closed-loop guarantees
-This repository contains the code from our paper "Koopman-based control of nonlinear systems with closed-loop guarantees" which can be acessed [here](https://arxiv.org/abs/22411.10359). 
+This repository contains the code from our paper "Koopman-based control of nonlinear systems with closed-loop guarantees" which can be acessed [here](https://arxiv.org/abs/2411.10359). 
 
 If you use this project for academic work, please consider citing our publication 
 
