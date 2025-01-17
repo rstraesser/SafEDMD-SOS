@@ -3,7 +3,7 @@
 [![Webpage][webpage-shield-RS]][webpage-url-RS]
 
 # Koopman-based control of nonlinear systems with closed-loop guarantees
-This repository contains the code from our paper "Koopman-based control of nonlinear systems with closed-loop guarantees" which can be acessed [here](https://arxiv.org/abs/2411.10359). 
+This repository contains the code from our paper "Koopman-based control of nonlinear systems with closed-loop guarantees" which can be accessed [here](https://arxiv.org/abs/2411.10359). 
 
 If you use this project for academic work, please consider citing our publication 
 
@@ -12,7 +12,7 @@ If you use this project for academic work, please consider citing our publicatio
     submitted, Preprint:2411.10359.
 
 ## Requirements 
-The controller design is carried out in matlab. Each of the figures have its own main.m, indicated by the suffix.
+The controller design is carried out in Matlab. Each figure has its own main.m, indicated by the suffix.
 The code uses the YALMIB toolbox with the solver MOSEK.
 
 ## Contact
